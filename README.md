@@ -12,11 +12,24 @@ design that is composed of the data layer, application layer and the presentatio
 system MySQL will be used for the database and PHP for creating/scripting web pages. The
 proponent also used Adobe Photoshop in designing the user interface.
 
+NEW to SWDMS 1.1.0:
+Fix: Redirect to other link when choosing services for old client.
+Fix: Error handling on some forms.
+Fix: Cannot update forms.
+Add: Restriction when acquiring services on the same monnth.
+
 Project is Developed by:
 
 * [Christian Kim Escamilla](https://www.linkedin.com/in/christian-kim-escamilla-b85b35b0/ "Linkedin - Christian Kim Escamilla")
 * Alexis Jane Hidalgo
 * Mercy Palo
+
+### Preview
+Login:
+![SWDMS login](https://res.cloudinary.com/dctf6uink/image/upload/v1544578163/Screenshot_from_2018-11-20_08-37-33.png "SWDMS login")
+
+User Interface:
+![SWDMS UI](https://res.cloudinary.com/dctf6uink/image/upload/v1544578490/Screenshot_from_2018-12-12_09-33-50.png "SWDMS UI")
 
 # Open-source software used to develop the project:
 
